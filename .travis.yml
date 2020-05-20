@@ -1,4 +1,4 @@
 dist: bionic
 sudo: required
 script:
-- ./bazeliskw run :helloworld
+- ./bazelisk.py run :helloworld
